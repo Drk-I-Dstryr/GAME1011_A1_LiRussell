@@ -1,0 +1,13 @@
+﻿  People.cpp
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(190,23): warning C4584: 'Survey': base-class 'Person' is already a base-class of 'Student'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(6): message : see declaration of 'Person'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(43): message : see declaration of 'Student'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(190,23): warning C4584: 'Survey': base-class 'Person' is already a base-class of 'NonGamingStudent'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(6): message : see declaration of 'Person'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(92): message : see declaration of 'NonGamingStudent'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(190,23): warning C4584: 'Survey': base-class 'Person' is already a base-class of 'GamingStudent'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(6): message : see declaration of 'Person'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.h(141): message : see declaration of 'GamingStudent'
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.cpp(10,6): warning C4101: 'randAge': unreferenced local variable
+C:\Users\russe\source\repos\GAME1011_A1_LiRussell\GAME1011_A1_LiRussell\People.cpp(19,6): warning C4101: 'randEnroll': unreferenced local variable
+  GAME1011_A1_LiRussell.vcxproj -> C:\Users\russe\source\repos\GAME1011_A1_LiRussell\Debug\GAME1011_A1_LiRussell.exe
